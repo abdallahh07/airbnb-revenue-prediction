@@ -6,6 +6,9 @@ A machine learning project that predicts annual Airbnb listing revenue based on 
 ## Dataset
 Download from Kaggle: https://www.kaggle.com/datasets/jasonairroi/airbnb-market-data-europe
 
+## Kaggle notebook
+Kaggle Notebook: https://www.kaggle.com/code/abdallahh07/airbnb-revenue-prediction
+
 ## Project Structure
 1. Data Loading
 2. EDA - Past Rates Analysis
