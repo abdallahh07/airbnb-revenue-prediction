@@ -7,7 +7,7 @@ A machine learning project that predicts annual Airbnb listing revenue based on 
 Download from Kaggle: https://www.kaggle.com/datasets/jasonairroi/airbnb-market-data-europe
 
 ## Kaggle notebook
-Kaggle Notebook: https://www.kaggle.com/code/abdallahh07/airbnb-revenue-prediction
+Kaggle Notebook: [https://www.kaggle.com/code/abdallahh07/airbnb-revenue-prediction](https://www.kaggle.com/code/abdallahhashad0/airbnb-revenue-prediction-eda-ml-models)
 
 ## Project Structure
 1. Data Loading
@@ -35,10 +35,10 @@ During development, an initial R2 of 0.99 was achieved. After investigation, thi
 
 | Model | R2 | RMSE |
 |-------|-----|------|
-| **CatBoost** | **0.597** | **$14,424** |
-| XGBoost | 0.587 | $14,616 |
-| Ridge | 0.281 | $19,273 |
-| LinearRegression | 0.199 | $20,343 |
+| **CatBoost** | **0.597** | **14,424** |
+| XGBoost | 0.587 | 14,616 |
+| Ridge | 0.281 | 19,273 |
+| LinearRegression | 0.199 | 20,343 |
 
 ## Why R2 is 0.59
 Revenue is influenced by factors not captured in listing data such as photo quality, host response time, local events, and competition. A 0.59 R2 with clean features is honest and realistic for Airbnb revenue prediction.
